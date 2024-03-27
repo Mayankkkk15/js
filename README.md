@@ -1,0 +1,2 @@
+# js
+studying about js
